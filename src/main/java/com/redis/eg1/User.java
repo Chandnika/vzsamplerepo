@@ -1,5 +1,5 @@
 package com.redis.eg1;
-
+// this is sample comment
 import javax.persistence.*;
 import java.io.Serializable;
 
