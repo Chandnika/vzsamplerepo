@@ -6,7 +6,14 @@ hey rude
 
 hey jude :P
 olelele
+<<<<<<< HEAD
 ascfsdfsdfdsfsdfsd
 
 
 Hi ravika
+=======
+
+fhdfhdfhhdghghdgdhdfhdgsedgdg dcg
+
+:( you are always rude to me 
+>>>>>>> decf1d125e800a71a3fd0893c14a0c4bae93c9e3
